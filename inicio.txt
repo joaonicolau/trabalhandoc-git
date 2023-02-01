@@ -2,4 +2,13 @@
 2° git init
 3° git add ou git add . adicionar arquivos 
 4° git status ver oq está acontecendo
- 
+5° adicionar conta
+  git config --global user.email "email"
+  git config --global user.name "nome"
+6° comentários
+  git commit -m "identificar o que foi feito"
+7° adicionar ao repositório hub
+  git remote add origin localdorepositório
+8° dizer qual branch rodar
+  git push --set-upstream origin master
+9°
