@@ -28,3 +28,15 @@
  git add . & git commit -m 
 5° clonar branch nova no hub
   git push --set-upstream origin staging
+     
+    Sempre fazer git pull
+   
+    Unir branch
+
+1° ir para principal
+ git checkout master
+2° unir os códigos
+ git merge staging
+3°enviar 
+ git push
+
