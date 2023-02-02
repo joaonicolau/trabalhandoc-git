@@ -40,3 +40,10 @@
 3°enviar 
  git push
 
+   unir branch local
+1° git checkout -b nome-da-branch master
+   testa funcionalidade- git add. git commit -m
+2°git merge nome-da-branch
+3°git pull git push
+
+
