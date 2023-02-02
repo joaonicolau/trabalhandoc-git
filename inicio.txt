@@ -16,3 +16,15 @@
   git reflog
 10°navegar entre as versões escolher versão
   git reset --hard (versões reflog)
+          BRANCH
+
+1° ver qual branch 
+ git branch
+2° criar uma branch
+ git branch nome da branch stagin
+3°mudar de branch
+ git checkout nome staging
+4° adiciona e commit nas alterações
+ git add . & git commit -m 
+5° clonar branch nova no hub
+  git push --set-upstream origin staging
