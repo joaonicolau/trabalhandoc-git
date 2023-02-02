@@ -11,4 +11,8 @@
   git remote add origin localdorepositório
 8° dizer qual branch rodar
   git push --set-upstream origin master
-9°
+          Localmente
+9°verificar atualização ver versões
+  git reflog
+10°navegar entre as versões escolher versão
+  git reset --hard (versões reflog)
